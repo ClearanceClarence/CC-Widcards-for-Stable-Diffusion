@@ -1,0 +1,15 @@
+Brown
+Blue
+Green
+Hazel
+Gray
+Amber
+Black
+Dark Brown
+Light Brown
+Light Blue
+Dark Blue
+Dark Green
+Light Green
+Golden Brown
+Violet

@@ -1,0 +1,26 @@
+Matte
+Glossy
+Satin
+Sheer
+Metallic
+Creamy
+Frosted
+Shimmery
+High-Shine
+Dewy
+Velvet
+Luminous
+Semi-Matte
+Matte with a slight sheen
+Stain
+Opaque
+Sparkly
+Glittery
+Moisturizing
+Long-Wearing
+Water-Based
+Oil-Based
+Lip Tint
+Lip Oil
+Lip Balm
+No

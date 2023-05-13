@@ -1,0 +1,20 @@
+Oval face
+Round face
+Square face
+Rectangle face
+Diamond face
+Heart face
+Inverted triangle face
+Long face
+Triangular face
+Tapered square face
+Wide rectangle face
+Soft diamond face
+Gently rounded square face
+Oblong face
+Pear face
+Narrow oval face
+Delicate heart face
+Soft triangle face
+Rounded diamond face
+Short rectangle face
