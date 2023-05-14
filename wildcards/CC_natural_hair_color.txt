@@ -1,35 +1,200 @@
-Jet black
-Soft black
-Espresso brown
-Dark chocolate brown
-Chestnut brown
-Medium ash brown
-Light ash brown
-Caramel brown
-Golden brown
-Honey brown
-Warm light brown
-ash blonde
-beige blonde
-blonde highlights
-butterscotch blonde
-champagne blonde
-dirty blonde
-golden blonde
-honey blonde
-light ash blonde
-light blonde
-platinum blonde
-sandy blonde
-vanilla blonde
-warm blonde
-white blonde
-Light auburn
-Medium auburn
-Dark auburn
-Rich copper red
-Ruby red
-Burgundy red
-Ginger red
-Soft ginger
-Titian red
+Acorn Brown
+Alabaster Blonde
+Almond Brown
+Almond Cookie Blonde
+Angel Food Cake Blonde
+Apple Pie Blonde
+Apricot Jam Blonde
+Artichoke Blonde
+Ash Blonde
+Ash Brown
+Asparagus Blonde
+Auburn
+Avocado Blonde
+Banana Pudding Blonde
+Barley Blonde
+Beetroot Red
+Beige Blonde
+Beige Brown
+Bell Pepper Red
+Berry Red
+Biscotti Blonde
+Biscuit Blonde
+Black
+Blonde
+Brandy Brown
+Brioche Blonde
+Broccoli Blonde
+Brown Sugar Blonde
+Brownie Batter Brown
+Burgundy
+Burnt Sienna Brown
+Butter Blonde
+Buttered Rum Blonde
+Buttermilk Blonde
+Butterscotch Blonde
+Cappuccino Brown
+Cappuccino Foam Blonde
+Caramel Blonde
+Caramel Brown
+Caramel Candy Blonde
+Caramel Macchiato Brown
+Caramel Popcorn Blonde
+Cashew Brown
+Celery Blonde
+Champagne Blonde
+Charcoal Black
+Cherry Pie Red
+Cherry Red
+Chestnut Blonde
+Chestnut Brown
+Chili Pepper Red
+Chocolate Brown
+Chocolate Chip Cookie Brown
+Cider Blonde
+Cinnamon Brown
+Cinnamon Candy Red
+Cinnamon Dolce Brown
+Cinnamon Toast Blonde
+Cocoa Brown
+Cocoa Puff Brown
+Coconut Blonde
+Coconut Cream Blonde
+Coffee Bean Brown
+Cognac Brown
+Copper Auburn
+Copper Red
+Cornflake Blonde
+Cornsilk Blonde
+Cranberry Juice Red
+Cream Blonde
+Cream Puff Blonde
+Creme Brulee Blonde
+Crimson Red
+Cucumber Blonde
+Currant Blonde
+Currant Red
+Daffodil Blonde
+Dark Auburn
+Dark Blonde
+Dark Brown
+Dark Burgundy
+Dark Cherry Red
+Dark Ginger
+Dark Walnut Brown
+Espresso Brown
+Fawn Brown
+Fire Engine Red
+Flaxen Blonde
+Garnet Red
+Ginger
+Gingersnap Brown
+Golden Blonde
+Golden Brown
+Granny Smith Apple Blonde
+Grapefruit Red
+Hazel Brown
+Hazelnut Brown
+Hickory Brown
+Honey Blonde
+Honey Brown
+Honey Graham Blonde
+Honeycomb Blonde
+Honeydew Melon Blonde
+Hot Chocolate Brown
+Jet Black
+Kale Blonde
+Key Lime Pie Blonde
+Kiwi Blonde
+Latte Blonde
+Lemon Blonde
+Lemon Meringue Blonde
+Lemon Tart Blonde
+Licorice Black
+Light Auburn
+Light Blonde
+Light Brown
+Light Ginger
+Macadamia Blonde
+Mahogany Brown
+Malted Milk Ball Brown
+Maple Brown
+Maple Sugar Blonde
+Maroon Red
+Marshmallow Blonde
+Matcha Green Tea Blonde
+Medium Brown
+Milk and Honey Blonde
+Mink Brown
+Mint Chip Blonde
+Mocha Brown
+Nutmeg Brown
+Oat Blonde
+Obsidian Black
+Off-Black
+Olive Green Blonde
+Orange Zest Red
+Oyster Blonde
+Pale Ivory Blonde
+Paprika Red
+Pea Green Blonde
+Peach Blonde
+Peach Cobbler Blonde
+Peanut Brittle Blonde
+Peanut Brown
+Peanut Butter Blonde
+Pearl Blonde
+Pecan Blonde
+Pecan Brown
+Persimmon Red
+Pistachio Blonde
+Pistachio Shell Blonde
+Platinum Blonde
+Pomegranate Red
+Popcorn Blonde
+Praline Brown
+Pumpernickel Brown
+Pumpkin Blonde
+Radish Red
+Raspberry Coulis Red
+Reddish Brown
+Rhubarb Red
+Roasted Chestnut Brown
+Root Beer Brown
+Rose Gold Blonde
+Ruby Red
+Russet Brown
+Rust Red
+Rusty Red
+Rye Brown
+Sable Brown
+Saddle Brown
+Sandy Blonde
+Scarlet Red
+Sesame Blonde
+Shortbread Blonde
+Sienna Brown
+Sorrel Brown
+Spinach Green Blonde
+Strawberry Blonde
+Strawberry Shortcake Red
+Sugar Cookie Blonde
+Sunflower Blonde
+Taffy Blonde
+Teak Brown
+Tiramisu Brown
+Toffee Brown
+Toffee Candy Blonde
+Tomato Soup Red
+Truffle Brown
+Turkish Coffee Brown
+Vanilla Blonde
+Vanilla Custard Blonde
+Vanilla Frosting Blonde
+Walnut Brown
+Watermelon Red
+Wheat Blonde
+Whipped Cream Blonde
+White Chocolate Blonde
+Wine Red
+Zucchini Blonde

@@ -1,30 +1,200 @@
-Baby pink
-Lavender purple
-Mint green
-Powder blue
-Peachy coral
-Pastel yellow
-Blush rose
-Soft teal
-Periwinkle blue
-Cotton candy pink
-Pastel lilac
-Smoky mauve
-Opal
-Icy silver
-Macaron blue
-Marshmallow white
-Taffy pink
-Seafoam green
-Pistachio green
-Dusty violet
-Watermelon pink
-Sherbet orange
-Sky blue
-Lemon sorbet
-Bubblegum pink
-Vanilla cream
-Pale turquoise
-Orchid purple
-Baby blue
-Candy floss pink
+Baby Pink
+Powder Blue
+Lavender Blush
+Peppermint Green
+Peach Sorbet
+Cotton Candy Pink
+Lemon Chiffon
+Mint Ice
+Strawberry Cream
+Sky Blue
+Vanilla Rose
+Seafoam Green
+Lilac Frost
+Buttermilk Yellow
+Cherry Blossom Pink
+Opal Unicorn
+Marshmallow White
+Periwinkle Dream
+Mauve Mist
+Honeydew Green
+Coral Cloud
+Pastel Rainbow
+Apricot Sunrise
+Bubblegum Blue
+Soft Sage
+Icy Lavender
+Melon Dew
+Pistachio Whisper
+Raspberry Cream
+Frosted Jade
+Whispering Willow
+Blueberry Frost
+Pomegranate Pink
+Mint Milkshake
+Orchid Hush
+Fairy Floss Pink
+Blue Lagoon Mist
+Orange Creamsicle
+Rose Quartz Blush
+Smoky Amethyst
+Banana Pudding Yellow
+Cotton Candy Cloud
+Silver Lilac
+Watermelon Sorbet
+Tangerine Dream
+Bluebell Whisper
+Peach Parfait
+Wisteria Haze
+Candy Floss Crush
+Soft Raspberry Ripple
+Tropical Peach Splash
+Lavender Lemonade
+Azure Mist
+Blue Raspberry Slush
+Pastel Pistachio
+Strawberry Milkshake
+Sunlit Coral
+Icy Mint Breeze
+Lilac Dusk
+Dreamy Vanilla
+Whispering Peach
+Caramel Rose
+Soft Teal Dream
+Dewy Daisy Yellow
+Baby's Breath Blue
+Summer Sunset Pink
+Fresh Pear Green
+Blueberry Sorbet
+Champagne Blush
+Misty Lilac
+Morning Sky Blue
+Honeydew Sunrise
+Soft Plum Haze
+Raspberry Lemonade
+Peony Pink
+Minty Marshmallow
+Twilight Lavender
+Blue Bonnet Mist
+Sherbet Sunset
+Cotton Candy Lime
+Peach Blossom Whisper
+Sweet Kiwi
+Blueberry Muffin
+Soft Maple Cream
+Whispering Willow Green
+Bubblegum Balloon
+Crystal Blue
+Sweet Toffee Swirl
+Frosted Tulip
+Pistachio Pudding
+Berry Sherbet
+Lemon Meringue Mist
+Pink Lemonade
+Soft Sapphire Haze
+Whimsical Watermelon
+Vanilla Cream Puff
+Daydream Delight
+Lemon Sherbet
+Sweet Macaron
+Rose Gold Whisper
+Sweet Lavender Macaroon
+Blushing Peach Pearl
+Frosted Blueberry Pie
+Golden Honeydew
+Minty Macaron
+Pink Grapefruit Sorbet
+Sea Salt Blue
+Dreamy Daffodil
+Soft Strawberry Sorbet
+Iced Mint Mocha
+Apricot Sunrise
+Blueberry Cream Cheese
+Champagne Pink Frost
+Dewy Pistachio
+Lavender Sugar Cookie
+Zesty Lemon Swirl
+Blue Lagoon Frost
+Sugared Almond
+Sweet Peach Tea
+Wildberry Yogurt Splash
+Crystal Coral Reef
+Dreamy Rose Dawn
+Gentle Jade Glow
+Iced Raspberry Parfait
+Mellow Mango Sorbet
+Ocean Foam Blue
+Pink Pomegranate Puff
+Refreshing Mint Tea
+Soft Sunflower Yellow
+Twilight Raspberry Ripple
+Apricot Dreamsicle
+Blueberry Frosting Swirl
+Coral Cotton Candy
+Dreamy Pistachio Pudding
+Frosted Grape Glimmer
+Icy Strawberry Swirl
+Mellow Mint Chocolate
+Peachy Keen Frost
+Raspberry Razzle Dazzle
+Soft Sky Sunrise
+Tangerine Twirl
+Whispering Watermelon Wave
+Zesty Lime Splash
+Blue Lagoon Sorbet
+Cherry Blossom Charm
+Dreamy Dewberry
+Frosted Apricot Almond
+Gentle Grapefruit Glow
+Icy Blueberry Blast
+Mellow Mango Mist
+Peach Parfait Sunrise
+Raspberry Rosewater
+Soft Sunbeam Yellow
+Tangerine Tango
+Whispering Willow Mint
+Zesty Lemon Zing
+Blueberry Bubblegum Blast
+Cherry Cordial Charm
+Dreamy Dahlia Dew
+Frosted Apple Sorbet
+Gentle Ginger Glow
+Icy Iris Ice Cream
+Mellow Matcha Swirl
+Pearlescent Peach
+Raspberry Ripple Ice Cream
+Soft Starlight Silver
+Toffee Twilight Tango
+Whimsical Watermelon Wave
+Zesty Zinnia Zing
+Bluebell Bliss
+Cherry Cheesecake Charm
+Dreamy Dusk Dewdrop
+Frosted Fern Frappe
+Golden Grapefruit Glow
+Icy Indigo Icing
+Mellow Moonbeam Mist
+Periwinkle Popsicle
+Raspberry Rose Remedy
+Silver Starlight Sparkle
+Taffy Twist Tango
+Whimsical Wildflower Whisper
+Zephyr Blue Zest
+Blossom Berry Blast
+Creamy Coconut Charm
+Dreamy Dragonfruit Dew
+Frosted Fig Frappe
+Goldenrod Glow
+Icy Ivory Ice
+Mellow Marigold Mist
+Periwinkle Petal Punch
+Raspberry Rhubarb Ripple
+Starlight Silver Sparkle
+Taffy Teal Tango
+Whimsical Wisteria Whisper
+Zephyr Zinnia Zest
+Blossom Blueberry Blast
+Creamy Caramel Charm
+Dreamy Dewdrop Dusk
+Frosted Fuchsia Frappe
+Golden Glow Gossamer

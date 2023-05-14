@@ -4,7 +4,6 @@ Rectangle body
 Diamond body
 Oval body
 Athletic body
-Pregnant Body
 Petite body
 Tall body
 Slender body
